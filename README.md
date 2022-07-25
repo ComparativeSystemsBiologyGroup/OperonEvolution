@@ -1,2 +1,4 @@
 # OperonEvolution
-Here we store code and ideas related to our collaborative project on describing Operon Evolution by the integration of systems biology and comparative genomics tools
+Here we store code and ideas related to our collaborative project on describing Operon Evolution by the integration of systems biology and comparative genomics tools.
+
+The question of interest is how the position of genes can be selected for such that on the long time gene clusters and then operons can form. Advantages provided by the operon have been discussed since long, but they only explain why once an operon has been formed, it is kept. what about the driving force enabling genes to get close such that an operon can form? This is a very different question. In this work we propose that a reasonable driving force comes from the perturbations to metabolic homeostasis that are consequent to an active replication of the chromosome. We provide theoretical evidence by combining DNA replication with Metabolic Control Theory and find support by exploiting both simulations and more importantly, comparative genomics analysis.
